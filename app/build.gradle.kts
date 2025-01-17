@@ -132,6 +132,9 @@ dependencies {
 
     /* NewPipe Extractor */
     implementation(libs.newpipeextractor)
+    implementation(libs.androidx.recyclerview)
+    implementation(libs.androidx.recyclerview)
+    implementation(libs.androidx.recyclerview)
 
     /* Cronet and Coil */
     coreLibraryDesugaring(libs.desugaring)

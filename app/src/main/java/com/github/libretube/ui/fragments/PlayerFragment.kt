@@ -171,7 +171,7 @@ class PlayerFragment : Fragment(), OnlinePlayerOptions {
     private var autoPlayCountdownEnabled = PlayerHelper.autoPlayCountdown
 
     /**
-     * The orientation of the `fragment_player.xml` that's currently used
+     * The orientation of the ``fragment_player.xml` that's currently used
      * This is needed in order to figure out if the current layout is the landscape one or not.
      */
     private var playerLayoutOrientation = Int.MIN_VALUE
