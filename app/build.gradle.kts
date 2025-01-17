@@ -109,6 +109,10 @@ dependencies {
     /* Design */
     implementation(libs.material)
 
+    /* Leanback */
+    implementation(libs.leanback)
+    implementation(libs.leanback.preference)
+
     /* ExoPlayer */
     implementation(libs.androidx.media3.exoplayer)
     implementation(libs.androidx.media3.ui)
